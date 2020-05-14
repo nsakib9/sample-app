@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nsakib9/sample-app/static/css/main.3b1673b2.chunk.css",
+    "main.js": "/nsakib9/sample-app/static/js/main.2a001ee4.chunk.js",
+    "main.js.map": "/nsakib9/sample-app/static/js/main.2a001ee4.chunk.js.map",
+    "runtime-main.js": "/nsakib9/sample-app/static/js/runtime-main.6b2aea21.js",
+    "runtime-main.js.map": "/nsakib9/sample-app/static/js/runtime-main.6b2aea21.js.map",
+    "static/js/2.476a2c85.chunk.js": "/nsakib9/sample-app/static/js/2.476a2c85.chunk.js",
+    "static/js/2.476a2c85.chunk.js.map": "/nsakib9/sample-app/static/js/2.476a2c85.chunk.js.map",
+    "index.html": "/nsakib9/sample-app/index.html",
+    "precache-manifest.8b62b28256a8b5350b19b91da480c85f.js": "/nsakib9/sample-app/precache-manifest.8b62b28256a8b5350b19b91da480c85f.js",
+    "service-worker.js": "/nsakib9/sample-app/service-worker.js",
+    "static/css/main.3b1673b2.chunk.css.map": "/nsakib9/sample-app/static/css/main.3b1673b2.chunk.css.map",
+    "static/js/2.476a2c85.chunk.js.LICENSE.txt": "/nsakib9/sample-app/static/js/2.476a2c85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b2aea21.js",
+    "static/js/2.476a2c85.chunk.js",
+    "static/css/main.3b1673b2.chunk.css",
+    "static/js/main.2a001ee4.chunk.js"
+  ]
+}
