@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { CardList } from "./components/card-list/card-list.component";
 import { SearchBox } from "./components/search-box/search-box.component";
+import { Slider } from "./components/carousel/carousel.component";
 
 import "./App.css";
 
@@ -27,6 +28,7 @@ class App extends Component {
     );
     return (
       <div className="App">
+        <Slider />
         <h1>Monster list</h1>
         <SearchBox
           placeholder="Search Monster Name"
